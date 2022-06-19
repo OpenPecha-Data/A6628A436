@@ -1,0 +1,19 @@
+segment_sources:
+  IE64BA728:
+    type: origin_type
+    relation: translation
+    language: en
+  I8A86983B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d5de95db83174f75bd3759e6c8ef8e23:
+    IE64BA728: 323928885eb54a3791a83d715fb3c303
+    I8A86983B: 88777105b0414d018b9e1d28aa1a7cb5
+  13e498f7aa0a44569ed49525f0306c47:
+    IE64BA728: 67ae78fea64a49548d2c1572099d3f7e
+    I8A86983B: e43ceb24f3cc46659fc3fbc2d0e20b9e
+  0b5488d8e1a34040b695ad81ab5317ed:
+    IE64BA728: 08ea17ae0f6f4f31bd04fab0a30043dc
+    I8A86983B: bcd576c672b64aab98b91a340307d5d0
